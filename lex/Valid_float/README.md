@@ -1,4 +1,4 @@
-#OUT
+# OUT
 
 Enter values (type 'end' to stop):
 3,4
