@@ -1,6 +1,6 @@
 # out
 
-askfsakl ;; aka /n
+askfsakl ;; aka 
 asan
 end
 Program terminated by 'end'
