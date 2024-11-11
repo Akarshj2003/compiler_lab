@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    printf("15");
+    printf("17");
+    printf("13");
+    printf("13");
+    return 0;
+}
