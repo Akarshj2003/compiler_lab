@@ -3,7 +3,7 @@
 %}
 %%
 [0-9]+ { yylval = atoi(yytext); return NUM; }
-[A-Z a-z] { return id; }
+[A-Za-z] { return id; }
 "+"    { return '+'; }
 "-"    { return '-'; }
 "*"    { return '*'; }
