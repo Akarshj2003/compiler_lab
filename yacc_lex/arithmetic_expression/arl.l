@@ -12,6 +12,6 @@
 ")"    { return ')'; }
 [\t] ;
 [\n] {return 0;} 
-. { printf("Invalid character: %s\n", yytext); }
+. { printf("Invalid character: %s\n", yytext); exit(0); }
 %%
 
