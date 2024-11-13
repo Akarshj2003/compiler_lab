@@ -1,13 +1,13 @@
 # out
 
-askfsakl ;; aka 
+a
 
-asan
+aka
 
 end
 
-
 Program terminated by 'end'
+
 Lines: 2
-Words: 4
-Characters: 21
+Words: 2
+Characters: 4

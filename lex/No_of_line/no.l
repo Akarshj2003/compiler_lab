@@ -8,8 +8,8 @@ int char_count = 0;
 
 %%
 end           {printf("Program terminated by 'end'\n"); return 0;}
-\n              { line_count++; char_count++; }
-[ \t]           { char_count++; }
+\n              { line_count++;}
+[ \t]           ;
 [^\n \t]+       { word_count++; char_count += yyleng; }
 
 %%
